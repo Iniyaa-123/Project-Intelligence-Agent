@@ -1,0 +1,48 @@
+Issue key,Summary,Description,Status,Priority,Created,Updated,Sprint,Assignee
+APL-101,Set up database schema part 1,Legacy database setup tasks.,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+APL-102,Set up database schema part 2,Legacy database setup tasks.,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+APL-103,Set up database schema part 3,Legacy database setup tasks.,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+APL-104,Set up database schema part 4,Legacy database setup tasks.,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+APL-105,Set up database schema part 5,Legacy database setup tasks.,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+APL-106,Set up database schema part 6,Legacy database setup tasks.,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+APL-107,Set up database schema part 7,Legacy database setup tasks.,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+APL-108,Set up database schema part 8,Legacy database setup tasks.,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+APL-109,Set up database schema part 9,Legacy database setup tasks.,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+APL-110,Set up database schema part 10,Legacy database setup tasks.,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+APL-111,ORM legacy migration subtask 1,Migrate backend tables to LEGACY structure.,Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+APL-112,ORM legacy migration subtask 2,Migrate backend tables to LEGACY structure.,Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+APL-113,ORM legacy migration subtask 3,Migrate backend tables to LEGACY structure.,Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+APL-114,ORM legacy migration subtask 4,Migrate backend tables to LEGACY structure.,Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+APL-115,ORM legacy migration subtask 5,Migrate backend tables to LEGACY structure.,Blocked,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+APL-116,ORM legacy migration subtask 6,Migrate backend tables to LEGACY structure.,Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+APL-117,ORM legacy migration subtask 7,Migrate backend tables to LEGACY structure.,Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+APL-118,ORM legacy migration subtask 8,Migrate backend tables to LEGACY structure.,Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+APL-119,ORM legacy migration subtask 9,Migrate backend tables to LEGACY structure.,Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+APL-120,ORM legacy migration subtask 10,Migrate backend tables to LEGACY structure.,Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+APL-121,BLOCKED: LEGACY ORM dependency upgrade issues,obsolete database library connector is deprecated. We are blocked by legacy libraries dependency errors.,Blocked,High,2026-04-20 11:30:00,2026-04-29 16:00:00,Sprint 2,Developer B
+APL-123,Cloud deployment test 1,Deploy regional nodes to production.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+APL-124,Cloud deployment test 2,Deploy regional nodes to production.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+APL-125,Cloud deployment test 3,Deploy regional nodes to production.,Blocked,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+APL-126,Cloud deployment test 4,Deploy regional nodes to production.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+APL-127,Cloud deployment test 5,Deploy regional nodes to production.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+APL-128,Cloud deployment test 6,Deploy regional nodes to production.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+APL-129,Cloud deployment test 7,Deploy regional nodes to production.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+APL-130,Cloud deployment test 8,Deploy regional nodes to production.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+APL-131,Cloud deployment test 9,Deploy regional nodes to production.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+APL-132,Cloud deployment test 10,Deploy regional nodes to production.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+APL-133,Cloud deployment test 11,Deploy regional nodes to production.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+APL-134,Cloud deployment test 12,Deploy regional nodes to production.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+APL-135,BLOCKED: Regional cloud gateway provider blackout,"Deployment server is blocked due to the cloud provider outage, on hold for 8 days.",Blocked,Critical,2026-05-05 10:00:00,2026-05-24 12:00:00,Sprint 3,Developer C
+APL-136,Analytics module 1,Setup dashboard visuals.,Done,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+APL-137,Analytics module 2,Setup dashboard visuals.,Done,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+APL-138,Analytics module 3,Setup dashboard visuals.,Done,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+APL-139,Analytics module 4,Setup dashboard visuals.,Done,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+APL-140,Analytics module 5,Setup dashboard visuals.,Done,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+APL-141,Analytics module 6,Setup dashboard visuals.,Done,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+APL-142,Analytics module 7,Setup dashboard visuals.,Done,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+APL-143,Analytics module 8,Setup dashboard visuals.,In Progress,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+APL-144,Analytics module 9,Setup dashboard visuals.,In Progress,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+APL-145,Analytics module 10,Setup dashboard visuals.,In Progress,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+APL-146,Analytics module 11,Setup dashboard visuals.,In Progress,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+APL-147,Analytics module 12,Setup dashboard visuals.,In Progress,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+APL-149,UNFINISHED: Resolving database technical debt fallout,Obsolete connectors and waiting for legacy schema dependency migrations.,In Progress,High,2026-05-22 09:00:00,2026-05-28 18:00:00,Sprint 4,Developer E

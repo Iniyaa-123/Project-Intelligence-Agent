@@ -1,0 +1,6 @@
+[2026-04-20 10:00:00] Alice (PM): Client requested a checkout redesign with dynamic pricing. Developer A: That's out of scope.
+[2026-04-20 10:15:00] Alice: It is an additional client requirement, so we must add it.
+[2026-05-05 10:15:30] Developer B: Payment API integration is blocked by updated auth credentials protocol. We are waiting for vendor documentation.
+[2026-05-12 09:15:00] Developer B: Payment gateway is still blocked. Vendor did not notify us of protocol auth changes.
+[2026-05-22 09:30:00] Developer C: We are short-staffed this sprint because Developer D and E are unavailable, on leave for Project X.
+[2026-05-22 09:40:00] Bob: That leaves dashboard team underresourced. 12 man-days lost.

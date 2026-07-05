@@ -1,0 +1,49 @@
+Issue key,Summary,Description,Status,Priority,Created,Updated,Sprint,Assignee
+PHX-101,Set up database schema part 1,Define database models and relationships for module 1,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+PHX-102,Set up database schema part 2,Define database models and relationships for module 2,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+PHX-103,Set up database schema part 3,Define database models and relationships for module 3,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+PHX-104,Set up database schema part 4,Define database models and relationships for module 4,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+PHX-105,Set up database schema part 5,Define database models and relationships for module 5,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+PHX-106,Set up database schema part 6,Define database models and relationships for module 6,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+PHX-107,Set up database schema part 7,Define database models and relationships for module 7,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+PHX-108,Set up database schema part 8,Define database models and relationships for module 8,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+PHX-109,Set up database schema part 9,Define database models and relationships for module 9,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+PHX-110,Set up database schema part 10,Define database models and relationships for module 10,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+PHX-111,Implement user authentication subtask 1,"Build secure login, token validation, and password reset flows.",Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+PHX-112,Implement user authentication subtask 2,"Build secure login, token validation, and password reset flows.",Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+PHX-113,Implement user authentication subtask 3,"Build secure login, token validation, and password reset flows.",Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+PHX-114,Implement user authentication subtask 4,"Build secure login, token validation, and password reset flows.",Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+PHX-115,Implement user authentication subtask 5,"Build secure login, token validation, and password reset flows.",Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+PHX-116,Implement user authentication subtask 6,"Build secure login, token validation, and password reset flows.",Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+PHX-117,Implement user authentication subtask 7,"Build secure login, token validation, and password reset flows.",Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+PHX-118,Implement user authentication subtask 8,"Build secure login, token validation, and password reset flows.",Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+PHX-119,Implement user authentication subtask 9,"Build secure login, token validation, and password reset flows.",Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+PHX-120,Implement user authentication subtask 10,"Build secure login, token validation, and password reset flows.",Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+PHX-121,ADDITIONAL FEATURE: Social login options (Google & GitHub),Stakeholders requested social auth integrations immediately. Adding to Sprint 2 scope.,Done,High,2026-04-20 11:30:00,2026-04-29 16:00:00,Sprint 2,Developer B
+PHX-122,ADDITIONAL FEATURE: MFA Authenticator support,Added mid-sprint. Integrate Google Authenticator TOTP flow.,In Progress,Critical,2026-04-22 14:00:00,2026-04-30 18:00:00,Sprint 2,Developer A
+PHX-123,Billing integration task 1,Connect third-party billing gateway to process payments.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+PHX-124,Billing integration task 2,Connect third-party billing gateway to process payments.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+PHX-125,Billing integration task 3,Connect third-party billing gateway to process payments.,Blocked,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+PHX-126,Billing integration task 4,Connect third-party billing gateway to process payments.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+PHX-127,Billing integration task 5,Connect third-party billing gateway to process payments.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+PHX-128,Billing integration task 6,Connect third-party billing gateway to process payments.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+PHX-129,Billing integration task 7,Connect third-party billing gateway to process payments.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+PHX-130,Billing integration task 8,Connect third-party billing gateway to process payments.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+PHX-131,Billing integration task 9,Connect third-party billing gateway to process payments.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+PHX-132,Billing integration task 10,Connect third-party billing gateway to process payments.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+PHX-133,Billing integration task 11,Connect third-party billing gateway to process payments.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+PHX-134,Billing integration task 12,Connect third-party billing gateway to process payments.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+PHX-135,BLOCKED: Payment API token gateway credentials,Unable to test payment endpoints. Third-party billing provider hasn't updated their auth protocol for our region. Awaiting vendor response.,Blocked,Critical,2026-05-05 10:00:00,2026-05-24 12:00:00,Sprint 3,Developer C
+PHX-136,Analytics dashboard panel 1,Build visualization widgets for data analytics.,Done,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+PHX-137,Analytics dashboard panel 2,Build visualization widgets for data analytics.,Done,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+PHX-138,Analytics dashboard panel 3,Build visualization widgets for data analytics.,Done,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+PHX-139,Analytics dashboard panel 4,Build visualization widgets for data analytics.,Done,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+PHX-140,Analytics dashboard panel 5,Build visualization widgets for data analytics.,Done,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+PHX-141,Analytics dashboard panel 6,Build visualization widgets for data analytics.,Done,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+PHX-142,Analytics dashboard panel 7,Build visualization widgets for data analytics.,Done,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+PHX-143,Analytics dashboard panel 8,Build visualization widgets for data analytics.,In Progress,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+PHX-144,Analytics dashboard panel 9,Build visualization widgets for data analytics.,In Progress,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+PHX-145,Analytics dashboard panel 10,Build visualization widgets for data analytics.,In Progress,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+PHX-146,Analytics dashboard panel 11,Build visualization widgets for data analytics.,In Progress,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+PHX-147,Analytics dashboard panel 12,Build visualization widgets for data analytics.,In Progress,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+PHX-149,UNFINISHED: Final dashboard visual graphs,Dashboard graphs delayed due to resources out sick. 10 man-days lost in frontend team.,In Progress,High,2026-05-22 09:00:00,2026-05-28 18:00:00,Sprint 4,Developer E

@@ -1,0 +1,9 @@
+[2026-05-05 10:12:00] Alice (Product Manager): Team, we have a billing integration task. Developer C, how is PHX-135 going?
+[2026-05-05 10:15:30] Developer C: I'm blocked. The billing API response is returning auth signature errors. Their gateway updated credentials rules but our test environment config is rejected.
+[2026-05-05 10:18:22] Developer C: Filed a high-priority ticket. They said it's a known issue for regional accounts, dev team is fixing it, but ETA is 2 weeks.
+[2026-05-12 09:15:00] Developer C: Still blocked. We cannot test payments. The entire Sprint 3 milestone is slipping because of this API blocker.
+[2026-05-20 10:00:00] Developer C: Good news, the billing vendor API issue is resolved. I've successfully connected and tested the gateway. PHX-135 is closed. Delay was exactly 15 days.
+[2026-05-22 09:30:00] Developer D: Hey Alice, just letting you know I've tested positive for flu. I'm feeling awful and won't be able to work this week.
+[2026-05-22 09:35:00] Developer E: Bad timing, I am also down with high fever. Doctor says I need complete bed rest for at least 5 days. Sorry team.
+[2026-05-22 09:40:00] Bob (Engineering Lead): That is both our frontend guys out. That leaves the dashboard team completely empty for week 2. 10 man-days lost.
+[2026-05-22 09:42:00] Alice: Okay, we will have to explain this delay to the steering committee. The release is slipping.

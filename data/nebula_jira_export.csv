@@ -1,0 +1,49 @@
+Issue key,Summary,Description,Status,Priority,Created,Updated,Sprint,Assignee
+NEB-101,Set up checkout module part 1,Core checkout page layout.,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+NEB-102,Set up checkout module part 2,Core checkout page layout.,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+NEB-103,Set up checkout module part 3,Core checkout page layout.,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+NEB-104,Set up checkout module part 4,Core checkout page layout.,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+NEB-105,Set up checkout module part 5,Core checkout page layout.,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+NEB-106,Set up checkout module part 6,Core checkout page layout.,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+NEB-107,Set up checkout module part 7,Core checkout page layout.,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+NEB-108,Set up checkout module part 8,Core checkout page layout.,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+NEB-109,Set up checkout module part 9,Core checkout page layout.,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+NEB-110,Set up checkout module part 10,Core checkout page layout.,Done,Medium,2026-04-02 09:00:00,2026-04-10 17:00:00,Sprint 1,Developer A
+NEB-111,Checkout subtask 1,Process payments in multiple formats.,Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+NEB-112,Checkout subtask 2,Process payments in multiple formats.,Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+NEB-113,Checkout subtask 3,Process payments in multiple formats.,Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+NEB-114,Checkout subtask 4,Process payments in multiple formats.,Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+NEB-115,Checkout subtask 5,Process payments in multiple formats.,Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+NEB-116,Checkout subtask 6,Process payments in multiple formats.,Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+NEB-117,Checkout subtask 7,Process payments in multiple formats.,Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+NEB-118,Checkout subtask 8,Process payments in multiple formats.,Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+NEB-119,Checkout subtask 9,Process payments in multiple formats.,Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+NEB-120,Checkout subtask 10,Process payments in multiple formats.,Done,High,2026-04-16 10:00:00,2026-04-28 18:00:00,Sprint 2,Developer B
+NEB-121,ADDITIONAL FEATURE: Dynamic tax calculation,Client requested checkout redesign with dynamic pricing. Added mid-sprint.,Done,High,2026-04-20 11:30:00,2026-04-29 16:00:00,Sprint 2,Developer B
+NEB-122,ADDITIONAL FEATURE: Multi-currency coupon conversions,Added mid-sprint. Integrate multi-currency. Client scope change.,In Progress,Critical,2026-04-22 14:00:00,2026-04-30 18:00:00,Sprint 2,Developer A
+NEB-123,API connector 1,Connect to vendor API.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+NEB-124,API connector 2,Connect to vendor API.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+NEB-125,API connector 3,Connect to vendor API.,Blocked,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+NEB-126,API connector 4,Connect to vendor API.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+NEB-127,API connector 5,Connect to vendor API.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+NEB-128,API connector 6,Connect to vendor API.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+NEB-129,API connector 7,Connect to vendor API.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+NEB-130,API connector 8,Connect to vendor API.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+NEB-131,API connector 9,Connect to vendor API.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+NEB-132,API connector 10,Connect to vendor API.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+NEB-133,API connector 11,Connect to vendor API.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+NEB-134,API connector 12,Connect to vendor API.,Done,High,2026-05-02 09:00:00,2026-05-14 17:00:00,Sprint 3,Developer C
+NEB-135,BLOCKED: Payment vendor API credentials auth protocol update,Vendor updated payment API protocol without notice. We are blocked and waiting for documentation.,Blocked,Critical,2026-05-05 10:00:00,2026-05-24 12:00:00,Sprint 3,Developer C
+NEB-136,Dashboard graph 1,Design visuals.,Done,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+NEB-137,Dashboard graph 2,Design visuals.,Done,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+NEB-138,Dashboard graph 3,Design visuals.,Done,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+NEB-139,Dashboard graph 4,Design visuals.,Done,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+NEB-140,Dashboard graph 5,Design visuals.,Done,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+NEB-141,Dashboard graph 6,Design visuals.,Done,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+NEB-142,Dashboard graph 7,Design visuals.,Done,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+NEB-143,Dashboard graph 8,Design visuals.,In Progress,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+NEB-144,Dashboard graph 9,Design visuals.,In Progress,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+NEB-145,Dashboard graph 10,Design visuals.,In Progress,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+NEB-146,Dashboard graph 11,Design visuals.,In Progress,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+NEB-147,Dashboard graph 12,Design visuals.,In Progress,Medium,2026-05-16 09:00:00,2026-05-28 17:00:00,Sprint 4,Developer D
+NEB-149,UNFINISHED: Short-staffed dashboard panels,"Team underresourced. Two developers reassigned. Unavailable, on leave for Project X.",In Progress,High,2026-05-22 09:00:00,2026-05-28 18:00:00,Sprint 4,Developer E

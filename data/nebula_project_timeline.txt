@@ -1,0 +1,21 @@
+PROJECT NEBULA MILESTONES TIMELINE
+------------------------------------
+Sprint 1 (Setup):
+  Planned: 2026-04-01 to 2026-04-14
+  Actual: 2026-04-01 to 2026-04-14
+  Status: Completed on time.
+
+Sprint 2 (Checkout & Client Scope Creep):
+  Planned: 2026-04-15 to 2026-04-28
+  Actual: 2026-04-15 to 2026-05-04
+  Status: Completed with 6 days delay due to scope change client requirements.
+
+Sprint 3 (Payment Gateway Vendor API Block):
+  Planned: 2026-04-29 to 2026-05-12
+  Actual: 2026-04-29 to 2026-05-19
+  Status: Completed with 7 days delay due to external payment API dependency blocker.
+
+Sprint 4 (Dashboard & Resource Short-staffed):
+  Planned: 2026-05-13 to 2026-05-26
+  Actual: 2026-05-13 to 2026-06-17
+  Status: Delayed by 5 weeks total. Team was short-staffed and underresourced due to developer leaves.

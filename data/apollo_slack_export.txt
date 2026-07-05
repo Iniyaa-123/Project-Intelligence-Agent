@@ -1,0 +1,5 @@
+[2026-04-20 10:00:00] Developer A: I am blocked. Legacy ORM database connector is deprecated and waiting for resolution.
+[2026-04-22 14:15:00] Developer A: Dependency conflicts are severe. Technical debt is catching up with us.
+[2026-05-05 10:15:30] Developer B: The deployment server is blocked due to the cloud provider outage, on hold for 8 days.
+[2026-05-12 09:15:00] Developer B: Regional server went dark. Waiting for cloud provider to recover from regional outage grid blackout.
+[2026-05-22 09:30:00] Developer C: Deprecated library build dependency is blocked. We are waiting for upgrades.

@@ -1,0 +1,21 @@
+PROJECT APOLLO MILESTONES TIMELINE
+------------------------------------
+Sprint 1 (Setup):
+  Planned: 2026-04-01 to 2026-04-14
+  Actual: 2026-04-01 to 2026-04-14
+  Status: Completed on time.
+
+Sprint 2 (Legacy Migration & Technical Debt):
+  Planned: 2026-04-15 to 2026-04-28
+  Actual: 2026-04-15 to 2026-05-03
+  Status: Completed with 5 days delay due to obsolete legacy ORM libraries database blocker and technical debt.
+
+Sprint 3 (Regional Cloud & Infrastructure Outage):
+  Planned: 2026-04-29 to 2026-05-12
+  Actual: 2026-04-29 to 2026-05-21
+  Status: Completed with 9 days delay due to cloud infrastructure outage and data center server blackout.
+
+Sprint 4 (Dashboard & Legacy Debt):
+  Planned: 2026-05-13 to 2026-05-26
+  Actual: 2026-05-13 to 2026-06-10
+  Status: Delayed by 4 weeks total due to database dependency conflicts, legacy libraries ORM errors, and cloud outages.

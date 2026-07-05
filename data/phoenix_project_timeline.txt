@@ -1,0 +1,21 @@
+PROJECT PHOENIX MILESTONES TIMELINE
+------------------------------------
+Sprint 1 (Database & Setup):
+  Planned: 2026-04-01 to 2026-04-14
+  Actual: 2026-04-01 to 2026-04-14
+  Status: Completed on time.
+
+Sprint 2 (Authentication & Scope Creep):
+  Planned: 2026-04-15 to 2026-04-28
+  Actual: 2026-04-15 to 2026-05-02
+  Status: Completed with 4 days delay due to social login/MFA scope creep.
+
+Sprint 3 (Billing Gateway & API Blocker):
+  Planned: 2026-04-29 to 2026-05-12
+  Actual: 2026-04-29 to 2026-05-24
+  Status: Completed with 12 days delay due to external payment API billing credentials gateway blocker.
+
+Sprint 4 (Dashboard & Resource Outage):
+  Planned: 2026-05-13 to 2026-05-26
+  Actual: 2026-05-13 to 2026-07-09
+  Status: Delayed by 6 weeks total. Developer D and Developer E fell down with flu in week 2, losing 10 man-days. Dashboard unfinished.
