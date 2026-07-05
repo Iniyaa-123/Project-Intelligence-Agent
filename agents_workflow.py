@@ -370,24 +370,28 @@ async def run_reporter(ctx: Context, node_input: Any) -> FinalReport:
     target = ctx.state.get("target_project", "All")
     is_comparison = False
     if target:
+        target_lower = target.lower().strip()
         targets = [t.strip() for t in target.split(",") if t.strip() and t.strip().lower() not in ["all", "ambiguous"]]
-        if len(targets) >= 2:
+        if len(targets) >= 2 or target_lower == "all":
             is_comparison = True
             
     if is_comparison:
         # Map shorthand names to clean titles
         targets_clean = [t.strip().title() for t in target.split(",") if t.strip() and t.strip().lower() not in ["all", "ambiguous"]]
-        mapped = []
-        for t in targets_clean:
-            if "Phoenix" in t:
-                mapped.append("Project Phoenix")
-            elif "Apollo" in t:
-                mapped.append("Project Apollo")
-            elif "Nebula" in t:
-                mapped.append("Project Nebula")
-            else:
-                mapped.append(t)
-        targets_clean = mapped
+        if not targets_clean:
+            targets_clean = ["Project Phoenix", "Project Apollo", "Project Nebula"]
+        else:
+            mapped = []
+            for t in targets_clean:
+                if "Phoenix" in t:
+                    mapped.append("Project Phoenix")
+                elif "Apollo" in t:
+                    mapped.append("Project Apollo")
+                elif "Nebula" in t:
+                    mapped.append("Project Nebula")
+                else:
+                    mapped.append(t)
+            targets_clean = mapped
             
         projects_str = ", ".join(targets_clean)
         json_keys = ", ".join(f'"{p}": "..."' for p in targets_clean)
