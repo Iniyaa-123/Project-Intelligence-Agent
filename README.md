@@ -2,7 +2,7 @@
 
 > An investigative multi-agent AI system that analyzes scattered project artifacts and answers plain-English questions about why software projects fail.
 
-**Kaggle 5-Day AI Agents Intensive — Vibe Coding Edition | Agents for Business Track**
+
 
 ---
 
